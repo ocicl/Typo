@@ -4,6 +4,6 @@ A portable type inference library for Common Lisp
 
 |---------+---------------------------------------------|
 | source  | git:https://github.com/marcoheisig/Typo.git |
-| commit  | 50d80ca                                     |
+| commit  | be8e460                                     |
 | systems | typo                                        |
 |---------+---------------------------------------------|
